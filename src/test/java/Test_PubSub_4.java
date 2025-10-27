@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 
 class Test_PubSub_4 {
-/*
+
     PriceFeed priceFeed;
 
     @Test
@@ -60,5 +60,5 @@ class Test_PubSub_4 {
             }
         });
     }
- */
+
 }

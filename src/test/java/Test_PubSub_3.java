@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.io.File;
 
 class Test_PubSub_3 {
-/*
+
     Publisher publisher;
     Subscriber testSubscriber;
     Object t;
@@ -55,5 +55,5 @@ class Test_PubSub_3 {
         pl.update(new DataPack(3.14, 0));
         Assertions.assertTrue(new File("price.log").exists());
     }
-*/
+
 }
